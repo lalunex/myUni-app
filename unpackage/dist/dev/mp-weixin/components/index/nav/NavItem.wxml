@@ -1,0 +1,1 @@
+<view><view class="{{[nav_itemObj.class]}}"></view><text class="nav_item-text">{{nav_itemObj.text}}</text></view>

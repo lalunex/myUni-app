@@ -1,0 +1,1 @@
+<view class="my_nav"><block wx:for="{{navdata}}" wx:for-item="item" wx:for-index="__i0__" wx:key="text"><nav-item class="nav_item" vue-id="{{'8d4df3fa-1-'+__i0__}}" nav_itemObj="{{item}}" data-event-opts="{{[['tap',[['navitageChange',['$0'],[[['navdata','text',item.text,'path']]]]]]]}}" bindtap="__e" bind:__l="__l"></nav-item></block></view>

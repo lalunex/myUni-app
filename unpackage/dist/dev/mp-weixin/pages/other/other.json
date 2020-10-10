@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "其他博文",
+  "usingComponents": {
+    "hot-articles": "/components/index/hotarticles/HotArticles"
+  }
+}

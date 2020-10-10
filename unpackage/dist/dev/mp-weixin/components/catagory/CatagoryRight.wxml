@@ -1,0 +1,1 @@
+<scroll-view class="catagory-right" scroll-y="true"><block wx:for="{{ItemRight}}" wx:for-item="item" wx:for-index="__i0__"><article-item vue-id="{{'474668be-1-'+__i0__}}" articleValue="{{item}}" data-event-opts="{{[['^sendImgInfo',[['imgChange']]]]}}" bind:sendImgInfo="__e" bind:__l="__l"></article-item></block></scroll-view>

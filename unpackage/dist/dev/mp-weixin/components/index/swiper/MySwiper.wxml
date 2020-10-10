@@ -1,0 +1,1 @@
+<view class="my_swiper"><swiper indicator-dots="true" circular="true" indicator-color="#ccc" autoplay="true"><block wx:for="{{$root.l0}}" wx:for-item="item" wx:for-index="__i0__" wx:key="g0"><swiper-item><image src="{{'https://lightliang.top/img/lightliangAdvertisementImg'+item.$orig.imgSrc+'.jpg'}}"></image></swiper-item></block></swiper></view>

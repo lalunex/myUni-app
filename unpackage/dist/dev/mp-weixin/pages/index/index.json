@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "my-swiper": "/components/index/swiper/MySwiper",
+    "my-nav": "/components/index/nav/MyNav",
+    "hot-articles": "/components/index/hotarticles/HotArticles"
+  }
+}

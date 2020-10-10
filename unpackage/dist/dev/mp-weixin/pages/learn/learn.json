@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "学习博文",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "hot-articles": "/components/index/hotarticles/HotArticles"
+  }
+}

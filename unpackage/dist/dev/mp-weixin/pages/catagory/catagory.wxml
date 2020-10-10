@@ -1,0 +1,1 @@
+<view class="catagory"><catagory-left vue-id="acc5ec00-1" labelsLeft="{{labels}}" data-event-opts="{{[['^getChangeType',[['getInfo']]]]}}" bind:getChangeType="__e" bind:__l="__l"></catagory-left><catagory-right vue-id="acc5ec00-2" ItemRight="{{showItem}}" bind:__l="__l"></catagory-right></view>

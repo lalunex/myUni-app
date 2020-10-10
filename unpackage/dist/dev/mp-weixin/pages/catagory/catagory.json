@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分类",
+  "usingComponents": {
+    "catagory-left": "/components/catagory/CatagoryLeft",
+    "catagory-right": "/components/catagory/CatagoryRight"
+  }
+}

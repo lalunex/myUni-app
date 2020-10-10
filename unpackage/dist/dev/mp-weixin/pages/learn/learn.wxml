@@ -1,0 +1,1 @@
+<view class="learn"><hot-articles class="vue-ref" vue-id="6ca230b6-1" data-ref="hotArticles" bind:__l="__l"></hot-articles></view>

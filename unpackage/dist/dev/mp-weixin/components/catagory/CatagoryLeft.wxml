@@ -1,0 +1,1 @@
+<scroll-view class="catagory-left" scroll-y="true"><block wx:for="{{labelsLeft}}" wx:for-item="item" wx:for-index="index" wx:key="*this"><view data-event-opts="{{[['tap',[['getCurrent',[index]]]]]}}" class="{{[(index===currentItem)?'active':'']}}" bindtap="__e">{{item}}</view></block></scroll-view>
